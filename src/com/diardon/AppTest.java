@@ -13,7 +13,7 @@ public class AppTest
 	// Usuario de la base de datos
 	private static final String USER = "root";
 	// Contraseña de la base de datos
-	private static final String PASS = "password";
+	private static final String PASS = "My-Sql-7845";
 
 	public static void main(String[] args)
 	{
